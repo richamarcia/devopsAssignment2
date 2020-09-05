@@ -54,11 +54,11 @@ WORKDIR ~/custom-drupal
 ![image5](images/ps.png)
 
 ### commit custom-image
-![image6](commit/ps.png)
+![image6](images/commit.png)
 ### tag custom-image
-![image7](tag/ps.png)
+![image7](images/tag.png)
 ### push to docker hub
-![image8](push/ps.png)
+![image8](images/push.png)
 ### config on port 8080
 
 ![image9](images/custom-image.png)
