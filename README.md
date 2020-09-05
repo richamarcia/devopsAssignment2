@@ -61,8 +61,8 @@ WORKDIR ~/custom-drupal
 ![image8](images/push.png)
 ### config on port 8080
 
-![image9](images/custom-image.png)
+![image9](images/custom-drupal.png)
 
-![image9](images/richacustom-image.png)
+![image9](images/richacustom-drupal.png)
 
 
